@@ -9,7 +9,7 @@ To use nw-template you need :
 Get started
 ===========
 
-  npm install
-  bower install
-  grunt
-  npm start
+    npm install
+    bower install
+    grunt
+    npm start
